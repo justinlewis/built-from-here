@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-TODO
+<h2>Coming soon...</h2>
