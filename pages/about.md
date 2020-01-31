@@ -1,6 +1,7 @@
 ---
-layout: misc
+layout: page
 title: About
 ---
 
-<h2>Coming soon...</h2>
+
+You can see [the first post](https://builtfromhere.com/general/welcome.html) for a little background.

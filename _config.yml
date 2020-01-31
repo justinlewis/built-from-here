@@ -21,3 +21,13 @@ author:              "Justin Lewis"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# mapping:
+#     provider: openstreetmap-leaflet
+#     # api_key: AIzaSyDNhj22EqZoDYXSF90FMCQjS-nQx4JG4uI
+#     zoom: 10
+#     dimensions:
+#         width: 600
+#         height: 400
+
+leaflet: "leaflet@1.0.2"

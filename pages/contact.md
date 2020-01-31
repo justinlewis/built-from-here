@@ -1,8 +1,15 @@
 ---
-layout: misc
+layout: page
 title: Contact
 ---
 
-<h2>Coming soon...</h2>
+<p>
+  You can find me around the digital universe:
+</p>
 
-[tweet at me](https://twitter.com/jmapping).
+
+[Me](http://jmapping.com/)
+<br>
+[Twitter](https://twitter.com/jmapping)
+<br>
+[LinkedIn](https://www.linkedin.com/in/justin-lewis-colorado/)

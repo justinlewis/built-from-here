@@ -120,3 +120,13 @@ blockquote {
      padding: 15px;
      text-align: left;
  }
+
+ #map {
+   width: 100%;
+   height: calc(100vh - 250px);
+   z-index: 1;
+ }
+
+ .content {
+   padding: 0px 10px 10px;
+ }
