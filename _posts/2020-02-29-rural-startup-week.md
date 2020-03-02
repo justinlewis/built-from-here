@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Rural Startup Week - A Place To Rally"
+title: "West Slope Startup Week - A Place To Rally"
 author: "Justin Lewis"
 categories: community
 tags: [community]
 image: telluride.jpg
+leaflet: true
+latlng: [39.0674901, -108.566658]
+zoom: 12
+mlatlng: [39.0674901, -108.566658]
+<!-- icon: path/to/yourMarker.png -->
+mpop: West Slope Startup Week 2020
 ---
+
 
 <h2>
   West Slope Startup Week is coming (June 1 - 5 of 2020)!
@@ -51,7 +58,7 @@ Startup Week is a place to converge around ideas, build relationships, learn, an
 Ultimately by strengthening a regional sense of community workers and entrepreneurs can help each other to create a professional ecosystem that support, attract, and retain people that grow opportunity.
 
 <h2>
-  You can have an impact at Startup Week
+  You can have an impact at and beyond Startup Week
 </h2>
 If you're on the fence about whether to go to your local Startup Week I'd encourage you to think about two questions.
 <ol>
@@ -65,3 +72,5 @@ There are probably many people in your community that could benefit from your he
   Help create the community you've always wanted
 </h2>
 We all start our careers looking at how others influence the professional environment around us. There are few opportunities to have a significant impact on your community like exist today. Jump in now, if you aren't already, to help shape a better future for rural entrepreneurship. Starting is as easy as showing up.
+
+{% include leaflet.html %}
