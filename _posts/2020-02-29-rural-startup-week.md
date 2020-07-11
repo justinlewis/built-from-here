@@ -15,7 +15,7 @@ mpop: West Slope Startup Week 2020
 
 
 <h2>
-  West Slope Startup Week is coming (June 1 - 5 of 2020)!
+  West Slope Startup Week is coming (July 7 - 30 of 2020)!
 </h2>
   This will be the second [West Slope Startup Week](https://westslopestartupweek.com/) and it's looking to be bigger and better than last year. I anticipate this years event to be high impact for those that get involved because of the general energy of the West Slope communities but also because of the plans we have cooking (more on that later). As an organizer of the event and someone who's been involved in community building more generally there are some questions and concerns that seem to repeat around the idea of Startup Week. This post hopefully helps address those concerns.
 
