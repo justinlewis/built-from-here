@@ -59,7 +59,7 @@ Ultimately by strengthening a regional sense of community workers and entreprene
 
 <h2>
   Hmm... But it's COVID times!
-</h2.
+</h2>
 Indeed this is not an ideal situation for a conference and it isn't as easy to network. But there are still options!
 <ol>
   <li>Get on the <a href="https://join.slack.com/t/westslopestartupweek/shared_invite/zt-f0u872v6-qx65ErDhVz98oeFF0Hniag" target="_blank" >West Slope Startup Week Slack!</a>
