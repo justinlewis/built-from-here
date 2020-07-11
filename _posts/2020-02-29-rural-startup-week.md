@@ -83,6 +83,10 @@ Indeed this is not an ideal situation for a conference and it isn't as easy to n
     July 9, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/ceWh/when-to-build-a-tech-team" target="_blank">When to build a Tech Team</a>
   </li>
   <li>
+    July 13, 2020 ... ok this isn't a Startup Week event but it is a West Slope Tech meetup that you might be interested in! <a href="https://www.meetup.com/Roaring-Fork-Technologists/events/271762668/" target="_blank">West Slope Startup Week Tech Preview & Unite Our Communities
+</a>
+  </li>
+  <li>
     July 21, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/ceVU/choosing-a-programming-technology-for-your-startup" target="_blank">Choosing a Programming Technology for Your Startup</a>
   </li>
   <li>
