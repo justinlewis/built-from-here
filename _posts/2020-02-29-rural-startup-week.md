@@ -69,6 +69,35 @@ Indeed this is not an ideal situation for a conference and it isn't as easy to n
   </li>
 </ol>
 
+<h2>
+  Here's a list of Tech focused events you might find interesting
+</h2>
+<ul>
+  <li>
+    July 7, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/cew3/lessons-learned-from-remotely-managing-a-team-grew-from-3-to-40" target="_blank">Lessons learned from remotely managing a team (grew from 3 to 40)</a>
+  </li>
+  <li>
+    July 9, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/ceZi/selling-high-value-products-online-do-you-have-the-right-model-cbd-as-a-case-study" target="_blank">Selling High Value Products Online – Do you have the right model? – CBD as a case study</a>
+  </li>
+  <li>
+    July 9, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/ceWh/when-to-build-a-tech-team" target="_blank">When to build a Tech Team</a>
+  </li>
+  <li>
+    July 21, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/ceVU/choosing-a-programming-technology-for-your-startup" target="_blank">Choosing a Programming Technology for Your Startup</a>
+  </li>
+  <li>
+    July 23, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/cYIR/thoughtful-design" target="_blank">Thoughtful Design</a>
+  </li>
+  <li>
+    July 28, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/cftK/coding-for-sustainability" target="_blank">Coding for Sustainability</a>
+  </li>
+  <li>
+    July 30, 2020 <a href="https://techstarsstartupweekwestslope202.sched.com/event/cpUh/cybersecurity-understanding-the-new-due-diligence-criteria" target="_blank">Cybersecurity: Understanding The New Due Diligence Criteria</a>
+  </li>
+</ul>
+
+There's a lot more on the <a href="https://techstarsstartupweekwestslope202.sched.com/">West Slope Startup Week Schedule</a>
+
 
 <h2>
   You can have an impact at and beyond Startup Week
@@ -79,7 +108,7 @@ If you're on the fence about whether to go tune in to this years West Slope Star
   <li>How would you like to help your community?</li>
 </ol>
 
-Virtual networking can even be more authentic as it gives you the ability to reach out to specific people rather than rolling the dice in a room of strangers. 
+Virtual networking can even be more authentic as it gives you the ability to reach out to specific people rather than rolling the dice in a room of strangers.
 
 There are probably many people in your community that could benefit from your help. Possibly people that would love your help. This does not necessarily need to be your professional services. More often than not it can be as simple as brainstorming ideas or an introduction to others. Those that give to their community will often get more back than they expect. It may not happen overnight but by helping others in your community you help set the example for others to help strengthen the community. With growth comes opportunity for not just businesses but the people of the towns we all live in.
 
