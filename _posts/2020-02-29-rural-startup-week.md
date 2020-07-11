@@ -17,7 +17,7 @@ mpop: West Slope Startup Week 2020
 <h2>
   West Slope Startup Week is coming (July 7 - 30 of 2020)!
 </h2>
-  This will be the second [West Slope Startup Week](https://westslopestartupweek.com/) and it's looking to be bigger and better than last year. I anticipate this years event to be high impact for those that get involved because of the general energy of the West Slope communities but also because of the plans we have cooking (more on that later). As an organizer of the event and someone who's been involved in community building more generally there are some questions and concerns that seem to repeat around the idea of Startup Week. This post hopefully helps address those concerns.
+  This will be the second [West Slope Startup Week](https://westslopestartupweek.com/) and it's looking to be bigger and better than last year. I anticipate this years event to be high impact for those that get involved because of the general energy of the West Slope communities. As someone who's helping to organize the event and someone who's been involved in community building more generally there are some questions and concerns that seem to repeat around the idea of Startup Week. This post hopefully helps address those concerns.
 
 <h2>
   The identity dilemma of Startup Week
@@ -37,16 +37,16 @@ mpop: West Slope Startup Week 2020
 <h2>
   The tech builders play an important role
 </h2>
-  Another common response I get from the tech community is that Startup Week doesn't have content that fits their priorities. I've felt this way in the past and can empathize. Sometimes it can feel like Startup Week is for founders and so those that are more interested in building solutions than founding companies may not see their place.
+  Another common response I get from the tech community is that Startup Week doesn't have content that fits their priorities. I've felt this way in the past and can empathize. Sometimes it can feel like Startup Week is for founders and so those that are more interested in building solutions than starting companies may not see their place.
 
   <strong>That can't be farther from the truth!</strong>
 
-  Startup Week offers an amazing opportunity to focus on aspects of a technical career while also providing opportunity to explore other areas up and down the entrepreneurial stack. There will be sessions to hear focused talks/conversations on technical topics as well as networking events to meet others like yourself from other communities. Through events like this I've seen relationships form that directly resulted in people switching jobs, companies growing, and even new companies forming. There may be career opportunities right down the road that you had no idea existed.
+  Startup Week offers an amazing opportunity to focus on aspects of a technical career while also providing opportunity to explore other areas up and down the entrepreneurial stack. There will be sessions to hear focused talks on technical topics. Through events like this I've seen relationships form that directly resulted in people switching jobs, companies growing, and even new companies forming. There may be career opportunities right down the road that you had no idea existed.
 
 <h2>
   Startup Week is a place to converge
 </h2>
-Startup Week is a place to converge around ideas, build relationships, learn, and get a glimpse of what's happening in the community.  Every Startup Week is different but rural communities may benefit from these events in ways that their more urban equivalents don't. In Western Colorado many communities are taking steps to work together as a larger system. This is incredibly important to supporting the long term health of communities because many of these communities can benefit from:
+Startup Week is a place to converge around ideas, build relationships, learn, and get a glimpse of what's happening in the community.  Every Startup Week is different but rural communities may benefit from these events in ways that more urban equivalents don't. In Western Colorado many communities are taking steps to work together as a larger system. This is incredibly important to supporting the long term health of communities because many of these communities can benefit from:
 <ol>
   <li>Sharing knowledge</li>
   <li>Accessing other companies</li>
@@ -58,19 +58,30 @@ Startup Week is a place to converge around ideas, build relationships, learn, an
 Ultimately by strengthening a regional sense of community workers and entrepreneurs can help each other to create a professional ecosystem that support, attract, and retain people that grow opportunity.
 
 <h2>
+  Hmm... But it's COVID times!
+</h2.
+Indeed this is not an ideal situation for a conference and it isn't as easy to network. But there are still options!
+<ol>
+  <li>Get on the <a href="https://join.slack.com/t/westslopestartupweek/shared_invite/zt-f0u872v6-qx65ErDhVz98oeFF0Hniag" target="_blank" >West Slope Startup Week Slack!</a>
+  </li>
+  <li>
+    Reach out to people directly via Slack, Facebook, LinkedIn, Email, or any other means possible. You would be surprised how happy people would be to hear from you.
+  </li>
+</ol>
+
+
+<h2>
   You can have an impact at and beyond Startup Week
 </h2>
-If you're on the fence about whether to go to your local Startup Week I'd encourage you to think about two questions.
+If you're on the fence about whether to go tune in to this years West Slope Startup Week I'd encourage you to think about two questions.
 <ol>
   <li>What would you like to get out of the event?</li>
   <li>How would you like to help your community?</li>
 </ol>
 
-There are probably many people in your community that could benefit from your help. This does not necessarily need to be your professional services. Possibly people that would love your help. More often than not it can be as simple as brainstorming ideas or an introduction to others. Those that give to their community will often get more back than they expect. It may not happen overnight but by helping others in your community you help set the example for others to help strengthen the community. With growth comes opportunity for not just businesses but the people of the towns we all live in.
+There are probably many people in your community that could benefit from your help. Possibly people that would love your help. This does not necessarily need to be your professional services. More often than not it can be as simple as brainstorming ideas or an introduction to others. Those that give to their community will often get more back than they expect. It may not happen overnight but by helping others in your community you help set the example for others to help strengthen the community. With growth comes opportunity for not just businesses but the people of the towns we all live in.
 
 <h2>
   Help create the community you've always wanted
 </h2>
-We all start our careers looking at how others influence the professional environment around us. There are few opportunities to have a significant impact on your community like exist today. Jump in now, if you aren't already, to help shape a better future for rural entrepreneurship. Starting is as easy as showing up.
-
-{% include leaflet.html %}
+We all start our careers looking at how others influence the professional environment around us. There are many ways to have a significant impact on your community. Jump in now, if you aren't already, to help shape a better future for rural entrepreneurship. Starting is as easy as showing up.
