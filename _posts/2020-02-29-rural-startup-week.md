@@ -79,6 +79,8 @@ If you're on the fence about whether to go tune in to this years West Slope Star
   <li>How would you like to help your community?</li>
 </ol>
 
+Virtual networking can even be more authentic as it gives you the ability to reach out to specific people rather than rolling the dice in a room of strangers. 
+
 There are probably many people in your community that could benefit from your help. Possibly people that would love your help. This does not necessarily need to be your professional services. More often than not it can be as simple as brainstorming ideas or an introduction to others. Those that give to their community will often get more back than they expect. It may not happen overnight but by helping others in your community you help set the example for others to help strengthen the community. With growth comes opportunity for not just businesses but the people of the towns we all live in.
 
 <h2>
